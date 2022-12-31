@@ -1,6 +1,6 @@
 # DT_Tree_Ensembles-_with_XGBoost
-### This is an educational Machine Learning project. It's full implementation from scratch of classifier and regressor deciscion tree built with support for Tree Ensembles.
-### the algorithm used for the tree ensembles is the xgboost algorithm. several tests and analysis has been made on the model using three data set fron kaggle which thier links are below.
+### This is an educational Machine Learning project. It's a full implementation from scratch of classifier and regressor decision tree built with support for Tree Ensembles.
+### the algorithm used for the tree ensembles is the xgboost algorithm. several tests and analysis has been made on the model using three datasets from kaggle which thier links are below.
 - The implementaion if fully documented and commented for erase of understanding the code and modification.
 - The module has been distributed as two packages.
 - One package is for special purposes and the seconds package depends on.
