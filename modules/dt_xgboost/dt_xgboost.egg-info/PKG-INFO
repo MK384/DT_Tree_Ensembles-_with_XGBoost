@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: dt-xgboost
+Version: 1.0
+Summary: The main module that contains the algorithms of the decision tree
+Home-page: github.com\mk384
+Author: Mohammed Khaled
+Author-email: mohammed.kh384@gmail.com

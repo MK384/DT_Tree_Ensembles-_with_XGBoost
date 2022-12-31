@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: special-functions
+Version: 2.2
+Summary: the helper specialized functions used in the main algorithm of the DT
+Home-page: github.com\mk384
+Author: Mohammed Khaled
+Author-email: mohammed.kh384@gmail.com
