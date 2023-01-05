@@ -9,6 +9,16 @@
 - The user has to feel free to use the module for any kind of purposes even with commercial ones with mention the source.
 - the modification are allowed two.
 
+#### Images from model analysis..
+![image](https://user-images.githubusercontent.com/94141150/210688651-b2e9bf54-87e5-4ac9-be58-3cc02efa7f88.png)
+
+![image](https://user-images.githubusercontent.com/94141150/210688972-752b0cdd-b1d9-418f-af9c-35f9f968abf4.png)
+
+![image](https://user-images.githubusercontent.com/94141150/210689071-80d78f73-4196-4087-bfcd-efb17b241d1f.png)
+
+
+
+
 #### Links for the datasets used in tests and analysis :
 
 - https://www.kaggle.com/datasets/uciml/iris/code?datasetId=19
